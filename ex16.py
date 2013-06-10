@@ -15,3 +15,4 @@ print "Truncating the file. Goodbye!"
 target.truncate()
 
 
+#muutos
